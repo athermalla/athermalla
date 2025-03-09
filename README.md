@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Athar Hussain Malla</h1>
-<h3 align="center">A passionate Java FullStack developer and Cloud Geek</h3>
+<h3 align="center">A passionate Java FullStack dev and Cloud Geek</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athermalla&label=Profile%20views&color=0e75b6&style=flat" alt="athermalla" /> </p>
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athermalla" alt="athermalla" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hyather" target="blank"><img src="https://img.shields.io/twitter/follow/hyather?logo=twitter&style=for-the-badge" alt="hyather" /></a> </p>
 
 - 🔭 I’m currently working on [Building my own Kafka](kafka-project-link)
 
-- 🌱 I’m currently learning **React, Advanced System Design**
+- 🌱 I’m currently learning **React, Advanced System Design, AI/ML**
 
-- 💬 Ask me about **Springboot, Java, AWS, Design Patterns**
+- 💬 Ask me about **Springboot, Java, AWS, System Design, Design Patterns**
 
 - 📫 How to reach me **net.ather@gmail.com**
 
@@ -65,3 +63,10 @@
   </picture>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=athermalla&label=Profile%20views&color=0e75b6&style=flat" alt="athermalla" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athermalla" alt="athermalla" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/hyather" target="blank"><img src="https://img.shields.io/twitter/follow/hyather?logo=twitter&style=for-the-badge" alt="hyather" /></a> </p>
+
+ 
