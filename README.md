@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athar Hussain Malla</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Java FullStack developer and Cloud Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athermalla&label=Profile%20views&color=0e75b6&style=flat" alt="athermalla" /> </p>
 
@@ -32,3 +32,36 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athermalla&show_icons=true&locale=en" alt="athermalla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athermalla&" alt="athermalla" /></p>
+<!--- Profile Summary: Used Language & Stats --->
+
+## 💯 Summary: Languages Used & GitHub Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athermalla&locale=en&hide_title=false&layout=compact&card_width=320&hide_border=false" height="180" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=athermalla&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="180" alt="stats graph"  />
+</div>
+
+<!--- Profile Contributions --->
+
+## 📝 Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=athermalla&card_width=1000)](https://git.io/streak-stats)<br/>
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=athermalla&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=1000)
+
+---
+[![Ather's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athermalla&theme=github-compact)](https://github.com/athermalla/github-readme-activity-graph)
+
+<!--- Contributions Snake --->
+
+#
+
+<div style="text-align: center; margin-top: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/athermalla/athermalla/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/athermalla/athermalla/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/athermalla/athermalla/blob/output/ocean.gif" style="max-width: 100%; height: auto;" />
+  </picture>
+</div>
+
