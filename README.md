@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Building my own Kafka](kafka-project-link)
 
-- 🌱 I’m currently learning **React, Advanced System Design, AI/ML**
+- 🌱 I’m currently learning **React, Docker, Kubernetes, Jenkins, Advanced System Design, AI/ML**
 
 - 💬 Ask me about **Springboot, Java, AWS, System Design, Design Patterns**
 
